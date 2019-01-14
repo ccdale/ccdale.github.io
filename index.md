@@ -1,1 +1,5 @@
-# gh pages
+---
+title: Index
+---
+# Index
+This is the index
